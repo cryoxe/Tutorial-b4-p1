@@ -1,0 +1,17 @@
+# Ignore ALL
+*
+
+# Using the exclamation point to re-add files
+
+# Add back folders
+!*/
+# Add back files which have a dot in their name
+!*.*
+
+# gcc
+a.out
+*.o
+
+# flag_5{cool_ignore}
+# Vim swap files
+*.swp
